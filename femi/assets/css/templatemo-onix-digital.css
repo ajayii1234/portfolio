@@ -2023,5 +2023,15 @@ responsive
     margin-bottom: 20px;
   }
 
+  #contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#map {
+    margin-bottom: 20px;
+}
 
 }
